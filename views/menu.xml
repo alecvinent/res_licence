@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+	<data>
+
+		<menuitem name="Licencias" id="d_1" />
+		<menuitem name="Licencias" id="d_2" parent="d_1" action="res_licence_action" />
+
+	</data>
+</openerp>
+
