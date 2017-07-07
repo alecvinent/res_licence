@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo noupdate="1">
+	<record model="base.config.settings" id="disable_module_base_import" forcecreate="false">
+		<field name="module_base_import" eval="False" />
+	</record>
+</odoo>
